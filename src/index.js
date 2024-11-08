@@ -1,3 +1,3 @@
 import "./style.css"
 
-console.log('Hello, World!');
+import {todo} from "./todo.js"
